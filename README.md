@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujityalmar&label=Profile%20views&color=0e75b6&style=flat" alt="sujityalmar" /> </p>
 
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
-
 - 🌱 I’m currently learning **Data Structure and Algorithms, Web Development**
 
 - 💬 Ask me about **Java, DSA, Web Development**
