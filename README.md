@@ -39,6 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujityalmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
+<br>
 <!--  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sujit_0210&theme=dark" alt="GitHub Streak" /></a> -->
 <!-- <picture> -->
 <!--   <source
@@ -72,6 +73,7 @@
     </a>
   </div> -->
 <!--   <br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujityalmar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
 
