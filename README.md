@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujityalmar&label=Profile%20views&color=0e75b6&style=flat" alt="sujityalmar" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms, Web Development**
+- 🌱 I’m currently learning **Data Structure and Algorithms, Android Development**
 
 - 💬 Ask me about **Java, DSA, Web Development**
 
