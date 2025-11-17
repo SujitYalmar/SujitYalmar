@@ -98,8 +98,8 @@
 
 | 🚀 Project | 📝 Description | 🔧 Tech Stack | ⭐ Status |
 |-----------|-------------|------------|----------|
-| **[Chaotic-Media-Encryption](https://github.com/SujitYalmar/Chaotic-Media-Encryption)** | Next-gen media encryption with advanced algorithms | JavaScript, Cryptography | In Progress |
-| **[AI Stock Analyst](https://github.com/SujitYalmar/Ai-stock-analyst)** | ML-powered stock market analytics & predictions | Python, TensorFlow, APIs | Active |
+| **[AI Stock Analyst](https://github.com/SujitYalmar/Ai-stock-analyst)** | ML-powered stock market analytics & predictions | Python, TensorFlow, APIs |  In Progress|
+| **[Chaotic-Media-Encryption](https://github.com/SujitYalmar/Chaotic-Media-Encryption)** | Next-gen media encryption with advanced algorithms | JavaScript, Cryptography | Deployed|
 | **[BK-Fruits-Suppliers](https://github.com/SujitYalmar/BK-Fruits-Suppliers)** | Full E-commerce platform for fruit suppliers | MERN, Firebase, Stripe | Deployed |
 | **[Phone Unlock Detection](https://github.com/SujitYalmar/Phone-Unlock-Detection)** | Android app with unlock event automation | Kotlin, Android SDK | Deployed |
 | **[LeetCode Solutions](https://github.com/SujitYalmar/LEETCODE_SOLUTION)** | Optimized DSA solutions with explanations | Java, Algorithms | 500+ |
