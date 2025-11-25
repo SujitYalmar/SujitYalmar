@@ -19,8 +19,8 @@
 <img align="right" src="https://img.shields.io/badge/Based%20In-India-FF6B6B?style=for-the-badge" alt="Location" />
 
 - 🎓 **Bachelor's Degree** in Computer Science
-- 💼 Building **production-grade full-stack applications** with Java Spring Boot & MERN
-- 🤖 **Generative AI** & **Machine Learning** enthusiast | LLM integration specialist
+- 💼 Building **production-grade full-stack applications** with Java Spring Boot 
+- 🤖 **Generative AI** & **Machine Learning** enthusiast | LLM integration 
 - 📱 Experienced in **Android/Flutter** mobile development
 - 🔥 Active **open-source contributor** with 953+ GitHub contributions
 - 🏆 Competitive programming | DSA optimization specialist
