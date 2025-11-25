@@ -112,7 +112,7 @@
 
 🏆 **YOLO Contributor** | 🎯 **Quickdraw Badge** | 📌 **Pull Shark Badge** | 💡 **Generative AI Certified**
 
-✨ **953+ GitHub Contributions** | 🔥 **4-Day Streak** | 📚 **Continuous Learner**
+✨ **953+ GitHub Contributions** | 📚 **Continuous Learner**
 
 </div>
 
