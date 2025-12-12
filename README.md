@@ -164,8 +164,6 @@
 
 > "Code is poetry written for machines, but read by humans."
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSujitYalmar&label=Total+Visitors&countColor=%2300D9FF&style=for-the-badge)
-
 ⭐ If you find value in my work, consider giving my repositories a star!
 
 </div>
