@@ -96,7 +96,7 @@
 | **[Chaotic-Media-Encryption](https://github.com/SujitYalmar/Chaotic-Media-Encryption)** | Next-gen media encryption with advanced algorithms | JavaScript, Cryptography | Deployed|
 | **[BK-Fruits-Suppliers](https://github.com/SujitYalmar/BK-Fruits-Suppliers)** | Full E-commerce platform for fruit suppliers | MERN, Firebase, Stripe | Deployed |
 | **[Nab The Spy](https://github.com/SujitYalmar/Phone-Unlock-Detection)** | Android app with unlock event automation | Kotlin, Android SDK | Deployed |
-| **[LeetCode Solutions](https://github.com/SujitYalmar/LEETCODE_SOLUTION)** | Optimized DSA solutions with explanations | Java, Algorithms | 500+ |
+| **[LeetCode Solutions](https://github.com/SujitYalmar/LEETCODE_SOLUTION)** | Optimized DSA solutions with explanations | Java, Algorithms | 100+ |
 
 ---
 
